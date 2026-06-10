@@ -29,7 +29,7 @@ No CTF point-chasing. No copy-pasted writeups. This is a simulation of day-one S
 | Dataset | Boss of the SOC (BOTS) v3 — Splunk's blue team training dataset |
 | Log Sources | Sysmon · WinEventLog · Suricata IDS · Stream · Fortigate · Apache · Osquery |
 | Framework | MITRE ATT&CK v14 |
-| OS | Windows 10 |
+| OS | Windows 11 |
 
 ---
 
